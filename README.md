@@ -1,1 +1,1 @@
-[Home Page]("https://sanirouke.github.io/capture/")
+[Home Page](https://sanirouke.github.io/Capture/)
